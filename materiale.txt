@@ -1,0 +1,30 @@
+rezistente:
+x2 10k  
+x1 12k 
+x4 100k  
+x1 1R 
+x1 150k 
+x1 4.7k 
+
+capacitoare:
+x2 1uF   
+x1 10uF  
+x1 100uF 
+x1 22uF 
+x1 2uF   
+x1 2000uF 
+x1 220nF 
+x1 100nF 
+
+potentiometre:
+x1 22k
+
+jack:
+RA49C12A
+
+diode:
+x2 1N4001
+
+integrate:
+uA741CN/CP
+TDA2030 
