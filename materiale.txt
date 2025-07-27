@@ -1,4 +1,4 @@
-rezistente:
+Resistors:
 x2 10k  
 x1 12k 
 x4 100k  
@@ -6,7 +6,7 @@ x1 1R
 x1 150k 
 x1 4.7k 
 
-capacitoare:
+Capacitors:
 x2 1uF   
 x1 10uF  
 x1 100uF 
@@ -16,15 +16,15 @@ x1 2000uF
 x1 220nF 
 x1 100nF 
 
-potentiometre:
+Potentiometers:
 x1 22k
 
-jack:
-RA49C12A
+Ports:
+RA49C12A (Jack 6.35mm)
 
-diode:
+Diodes:
 x2 1N4001
 
-integrate:
+ICs:
 uA741CN/CP
 TDA2030 
